@@ -1,0 +1,13 @@
+print("Hello let's introduce myself")
+print("Name Khanisorn")
+print("surname Rimpear")
+print("Purse")
+print("Age 17")
+print("6 Oct. 2004")
+print("M.6/14")
+print("No.33")
+print("50238")
+print("FavSubject English")
+print("FavFood Noodles")
+print("6/14")
+#นายคณิศร ริมแพร ม.6/14 เลขที่33
